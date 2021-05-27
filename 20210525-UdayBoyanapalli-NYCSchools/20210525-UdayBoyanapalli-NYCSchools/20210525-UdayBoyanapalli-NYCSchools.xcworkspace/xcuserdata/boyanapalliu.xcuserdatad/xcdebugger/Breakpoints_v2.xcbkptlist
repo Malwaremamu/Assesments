@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A48A4543-01F2-4145-81CE-531F0BD64C9B"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "433D68EF-B04B-4324-A0C2-F9AC45D8EEFD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20210525-UdayBoyanapalli-NYCSchools/PresentationLayer/View Controller/NYCViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "showNycSchools(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B978A83-FF79-4CF3-A219-5E05D35349AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20210525-UdayBoyanapalli-NYCSchools/PresentationLayer/View Controller/NYCViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "showNycSchools(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A5EABB8-5BC0-4BF6-8DBE-CE75BD180DAF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20210525-UdayBoyanapalli-NYCSchools/PresentationLayer/View Controller/NYCViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "showNycSchools(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7A5EABB8-5BC0-4BF6-8DBE-CE75BD180DAF - 9d8151a5f166683b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in _0210525_UdayBoyanapalli_NYCSchools.NYCViewController.showNycSchools(Any) -&gt; ()"
+                  moduleName = "20210525-UdayBoyanapalli-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/boyanapalliu/Downloads/20210525-UdayBoyanapalli-NYCSchools/20210525-UdayBoyanapalli-NYCSchools/20210525-UdayBoyanapalli-NYCSchools/PresentationLayer/View%20Controller/NYCViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "131">
+               </Location>
+               <Location
+                  uuid = "7A5EABB8-5BC0-4BF6-8DBE-CE75BD180DAF - 9d8151a5f166683b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in _0210525_UdayBoyanapalli_NYCSchools.NYCViewController.showNycSchools(Any) -&gt; ()"
+                  moduleName = "20210525-UdayBoyanapalli-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/boyanapalliu/Downloads/20210525-UdayBoyanapalli-NYCSchools/20210525-UdayBoyanapalli-NYCSchools/20210525-UdayBoyanapalli-NYCSchools/PresentationLayer/View%20Controller/NYCViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6956A315-2B07-4E2A-BCEF-ACB0C84C5264"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20210525-UdayBoyanapalli-NYCSchools/PresentationLayer/View Controller/NYCViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "showNycSchools(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68D8263D-5C55-46FD-B9BB-CF36119AB24B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20210525-UdayBoyanapalli-NYCSchools/PresentationLayer/View Controller/NYCViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "showNycSchools(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "68D8263D-5C55-46FD-B9BB-CF36119AB24B - 9d8151a5f1666775"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in _0210525_UdayBoyanapalli_NYCSchools.NYCViewController.showNycSchools(Any) -&gt; ()"
+                  moduleName = "20210525-UdayBoyanapalli-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/boyanapalliu/Downloads/20210525-UdayBoyanapalli-NYCSchools/20210525-UdayBoyanapalli-NYCSchools/20210525-UdayBoyanapalli-NYCSchools/PresentationLayer/View%20Controller/NYCViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1693">
+               </Location>
+               <Location
+                  uuid = "68D8263D-5C55-46FD-B9BB-CF36119AB24B - 9d8151a5f1666775"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in _0210525_UdayBoyanapalli_NYCSchools.NYCViewController.showNycSchools(Any) -&gt; ()"
+                  moduleName = "20210525-UdayBoyanapalli-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/boyanapalliu/Downloads/20210525-UdayBoyanapalli-NYCSchools/20210525-UdayBoyanapalli-NYCSchools/20210525-UdayBoyanapalli-NYCSchools/PresentationLayer/View%20Controller/NYCViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1739">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2BC07051-FCF2-472D-BDC7-00F8D5D0655B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20210525-UdayBoyanapalli-NYCSchools/PresentationLayer/View Controller/NYCViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "showNycSchools(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "04A4AF73-F3C4-4A5C-93FA-2599AAA2CD37"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20210525-UdayBoyanapalli-NYCSchools/PresentationLayer/View Controller/SATViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28E6072F-9606-4757-B847-83FAF35AD0BF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20210525-UdayBoyanapalli-NYCSchools/PresentationLayer/View Controller/SATViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "showSATDetails(data:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "28E6072F-9606-4757-B847-83FAF35AD0BF - b5c7ab32facc7eca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0210525_UdayBoyanapalli_NYCSchools.SATViewController.showSATDetails(data: Swift.Array&lt;Swift.AnyObject&gt;) -&gt; ()"
+                  moduleName = "20210525-UdayBoyanapalli-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/boyanapalliu/Downloads/20210525-UdayBoyanapalli-NYCSchools/20210525-UdayBoyanapalli-NYCSchools/20210525-UdayBoyanapalli-NYCSchools/PresentationLayer/View%20Controller/SATViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "243">
+               </Location>
+               <Location
+                  uuid = "28E6072F-9606-4757-B847-83FAF35AD0BF - 70c100ad587c6c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.AnyObject) -&gt; Swift.Bool in _0210525_UdayBoyanapalli_NYCSchools.SATViewController.showSATDetails(data: Swift.Array&lt;Swift.AnyObject&gt;) -&gt; ()"
+                  moduleName = "20210525-UdayBoyanapalli-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/boyanapalliu/Downloads/20210525-UdayBoyanapalli-NYCSchools/20210525-UdayBoyanapalli-NYCSchools/20210525-UdayBoyanapalli-NYCSchools/PresentationLayer/View%20Controller/SATViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "111">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FEAA6C83-8C39-4710-AA53-F3B6605D425A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20210525-UdayBoyanapalli-NYCSchools/PresentationLayer/View Controller/SATViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "showSATDetails(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

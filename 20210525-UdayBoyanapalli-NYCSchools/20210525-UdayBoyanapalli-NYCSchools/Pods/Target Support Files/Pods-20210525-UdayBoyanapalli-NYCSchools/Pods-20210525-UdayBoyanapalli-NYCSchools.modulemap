@@ -1,0 +1,6 @@
+framework module Pods_20210525_UdayBoyanapalli_NYCSchools {
+  umbrella header "Pods-20210525-UdayBoyanapalli-NYCSchools-umbrella.h"
+
+  export *
+  module * { export * }
+}
